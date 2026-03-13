@@ -1,0 +1,15 @@
+chromadb>=0.5
+gradio>=4.0
+numpy>=1.24
+python-dotenv>=1.0
+requests>=2.28
+
+# Optional — better embeddings (falls back to hash-trick if not installed)
+# sentence-transformers>=2.2
+
+# Optional — document ingestion extras
+# pypdf>=3.0          # for PDF support
+# python-docx>=1.0    # for DOCX support
+
+# MCP server
+mcp>=1.0
