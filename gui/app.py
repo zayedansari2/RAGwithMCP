@@ -129,7 +129,7 @@ def build_app() -> gr.Blocks:
             """
 # 📚 RAG with MCP
 Upload your documents, chat with them using a powerful LLM, and connect an MCP server 
-to your favourite AI assistant.
+to your favorite AI assistant.
 """
         )
 
